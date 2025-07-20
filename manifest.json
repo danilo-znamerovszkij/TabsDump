@@ -1,0 +1,22 @@
+{
+  "name": "TabsDump",
+  "description": "Quickly export your browser tabs in customizable formats for easy sharing and analysis.",
+  "version": "1.0.1",
+  "manifest_version": 3,
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "TabsDump - Export Your Tabs",
+    "default_icon": "assets/logo-48.png"
+  },
+
+  "permissions": ["tabs", "clipboardWrite"],
+
+  "icons": {
+    "16": "assets/logo-16.png",
+    "32": "assets/logo-32.png",
+    "34": "assets/logo-34.png",
+    "48": "assets/logo-48.png",
+    "128": "assets/logo-128.png"
+  }
+}
