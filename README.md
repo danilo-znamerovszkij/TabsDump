@@ -1,15 +1,19 @@
 # TabsDump Chrome Extension
 
-A lightweight Chrome extension designed for users overwhelmed by a large number of open tabs (100+). It allows users to quickly export a filtered list of their browser tabs in customizable formats (JSON or string), enabling easy sharing, analysis, or use with AI tools like ChatGPT to help prioritize and manage workflow.
+> Dump your Chrome tabs with one click.
+
+<img width="352" height="600" alt="TabsDump" src="https://github.com/user-attachments/assets/7788dd70-b87b-4507-ae2c-326cc7ed9d7f" />
+
+
+Quickly export your open tabs data (title, url) in plain text or JSON, so you can organize, share, or run them through AI tools like ChatGPT, to help prioritize and manage workflow.
 
 ## Features
 
-- **Quick Export**: Export all your browser tabs with a single click
-- **Customizable Output**: Choose between JSON or string format
-- **Flexible Fields**: Select which tab properties to include (title, URL, pinned, active, etc.)
-- **Clipboard Integration**: Automatically copy results to clipboard
-- **Clean UI**: Minimal, distraction-free interface
-- **Smart Defaults**: Works out of the box with just tab titles
+- Choose between JSON or string format
+- Select which tab properties to include (title, URL, pinned, active, etc.)
+- Automatically copy results to clipboard
+- Minimal, distraction-free interface
+- Works out of the box with just tab titles
 
 ## Installation
 
@@ -55,7 +59,7 @@ TabsDump/
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests!
+Feel free to submit issues and enhancement requests
 
 ## License
 
